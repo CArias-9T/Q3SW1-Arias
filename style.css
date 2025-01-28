@@ -1,0 +1,33 @@
+body{
+	 background-image: linear-gradient(to right, red, yellow);
+	 background-size:100%;
+}
+
+button{
+	width:200px;
+	height:75px;
+	font-size:100px;
+}
+
+.footer{
+		bottom:0;
+		position:fixed;
+		width:100%;
+		font-family: heiti sc;
+		text-align: center;
+		color:white;
+	}
+
+.temp-img{
+	width:300px;
+}
+
+.container{
+	font-family: heiti sc;
+	text-align: center;
+	color:white;
+	background-color:grey;
+	margin-top:80px;
+	padding:10px;
+	border:5px black;
+}
